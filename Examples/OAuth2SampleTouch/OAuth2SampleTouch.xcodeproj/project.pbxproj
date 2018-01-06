@@ -46,7 +46,7 @@
 		4F64A4041305E3F90058B9BA /* GTMOAuth2Authentication.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = GTMOAuth2Authentication.m; path = ../../Source/GTMOAuth2Authentication.m; sourceTree = SOURCE_ROOT; };
 		4F64A4051305E3F90058B9BA /* GTMOAuth2SignIn.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = GTMOAuth2SignIn.h; path = ../../Source/GTMOAuth2SignIn.h; sourceTree = SOURCE_ROOT; };
 		4F64A4061305E3F90058B9BA /* GTMOAuth2SignIn.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = GTMOAuth2SignIn.m; path = ../../Source/GTMOAuth2SignIn.m; sourceTree = SOURCE_ROOT; };
-		4FB495661CAB2398000D1487 /* GTMSessionFetcherIOS.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = GTMSessionFetcherIOS.framework; path = "../../Deps/gtm-session-fetcher/Source/build/Debug-iphoneos/GTMSessionFetcherIOS.framework"; sourceTree = "<group>"; };
+		4FB495661CAB2398000D1487 /* GTMSessionFetcherIOS.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = GTMSessionFetcherIOS.framework; path = "../../Dependencies/gtm-session-fetcher/Source/build/Debug-iphoneos/GTMSessionFetcherIOS.framework"; sourceTree = "<group>"; };
 		4FF23DC011754C0300E96C5A /* SystemConfiguration.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SystemConfiguration.framework; path = System/Library/Frameworks/SystemConfiguration.framework; sourceTree = SDKROOT; };
 		F49B45D213315AA200EAA732 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */

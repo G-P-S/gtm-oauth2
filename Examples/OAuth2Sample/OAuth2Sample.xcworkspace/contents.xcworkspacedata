@@ -5,6 +5,6 @@
       location = "container:OAuth2Sample.xcodeproj">
    </FileRef>
    <FileRef
-      location = "group:../../Deps/gtm-session-fetcher/Source/GTMSessionFetcherCore.xcodeproj">
+      location = "group:../../Dependencies/gtm-session-fetcher/Source/GTMSessionFetcherCore.xcodeproj">
    </FileRef>
 </Workspace>
